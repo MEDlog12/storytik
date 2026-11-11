@@ -11,7 +11,7 @@ Whether you want to back up your own TikTok stories before they disappear after 
 Downloading TikTok stories using StoryTik is simple and takes only a few seconds:
 
 1. **Copy the Link:** Open TikTok (App or Web) and copy the URL of the story or video you want to save.
-2. **Paste the Link:** Go to [StoryTik.app](https://storytik.app/) and paste the copied link into the search box.
+2. **Paste the Link:** Go to storytik.app and paste the copied link into the search box.
 3. **Download:** Click the **Download** button and select your preferred quality (HD MP4 for video / JPEG for photo stories).
 
 ---
@@ -34,4 +34,4 @@ Downloading TikTok stories using StoryTik is simple and takes only a few seconds
 
 ---
 
-👉 Ready to save your favorite TikTok stories? Visit [StoryTik.app](https://storytik.app/) now!
+👉 Ready to save your favorite TikTok stories? Visit [storytik.app](https://storytik.app/) now!
