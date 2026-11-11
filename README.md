@@ -34,4 +34,4 @@ Downloading TikTok stories using StoryTik is simple and takes only a few seconds
 
 ---
 
-👉 Ready to save your favorite TikTok stories? Visit [storytik.app](https://storytik.app/) now!
+👉 Ready to save your favorite TikTok stories? Visit https://storytik.app now!
